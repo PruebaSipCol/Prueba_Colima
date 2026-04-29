@@ -1,0 +1,22 @@
+﻿dominio,indicador,descriptores,valores
+Dominio Protección ,Total de personas registradas en el Estado de Colima,d4_i1_d,d4_i1_v
+Dominio Protección ,Total de hombres registrados en el Estado de Colima,d4_i2_d,d4_i2_v
+Dominio Protección ,Total de mujeres registradas en el Estado de Colima,d4_i3_d,d4_i3_v
+Dominio Protección ,Personas de 0-4 que no cuentan con registro de nacimiento en el Estado de Colima,d4_i4_d,d4_i4_v
+Dominio Protección ,Hombres de 0-4 que no cuentan con registro de nacimiento en el Estado de Colima,d4_i5_d,d4_i5_v
+Dominio Protección ,Mujeres de 0-4 que no cuentan con registro de nacimiento en el Estado de Colima,d4_i6_d,d4_i6_v
+Dominio Protección ,Población mayor de 12 y menor de 18 años que están unidos en pareja en el Estado de Colima,d4_i7_d,d4_i7_v
+Dominio Protección ,Población de adolescentes mujeres de 12 a 17 años en unión libre en el Estado de Colima,d4_i8_d,d4_i8_v
+Dominio Protección ,Población de 12 a 14 años que trabaja en el Estado de Colima,d4_i9_d,d4_i9_v
+Dominio Protección ,Mujeres de 12 a 14 años que trabaja en el Estado de Colima,d4_i10_d,d4_i10_v
+Dominio Protección ,Hombres de 12 a 14 años que trabaja en el Estado de Colima,d4_i11_d,d4_i11_v
+Dominio Protección ,Población de 15 a 17 años que trabaja en el Estado de Colima,d4_i12_d,d4_i12_v
+Dominio Protección ,Mujeres de 15 a 17 años que trabaja en el Estado de Colima,d4_i13_d,d4_i13_v
+Dominio Protección ,Hombres de 15 a 17 años que trabaja en el Estado de Colima,d4_i14_d,d4_i14_v
+Dominio Protección ,Población de 12 a 17 años trabajadores que no asisten a la escuela en el Estado de Colima,d4_i15_d,d4_i15_v
+Dominio Protección ,"Niños, niñas y adolescentes de 3 a 17 años con discapacidad que no asiste a la escuela en el Estado de Colima",d4_i16_d,d4_i16_v
+Dominio Protección ,"Niñas, niños y adolescentes de 0 a 17 años con discapacidad o limitación con afiliación a servicios de salud en el Estado de Colima",d4_i17_d,d4_i17_v
+Dominio Protección ,Número de casos de abuso sexual en el Estado de Colima,d4_i18_d,d4_i18_v
+Dominio Protección ,Número de casos de corrupción de personas menores de edad en el Estado de Colima,d4_i19_d,d4_i19_v
+Dominio Protección ,Número de casos de hostigamiento sexual en personas menores de edad en el Estado de Colima,d4_i20_d,d4_i20_v
+Dominio Protección ,Número de casos de violación en personas menores de edad en el Estado de Colima,d4_i21_d,d4_i21_v
