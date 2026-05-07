@@ -1,11 +1,12 @@
-Clave,Municipio,Valor
-06001,ArmerÃ­a,4
-06002,Colima,8
-06003,Comala,12
-06004,CoquimatlÃ¡n,10
-06005,CuauhtÃ©moc,4
-06006,IxtlahuacÃ¡n,44
-06007,Manzanillo,2
-06008,MinatitlÃ¡n,35
-06009,TecomÃ¡n,27
-06010,Villa de Ãlvarez,29
+Clave,Municipio,Valor,,,,
+06001,Armería,8,,,,
+06002,Colima,42,,,,
+06003,Comala,9,,,,
+06004,Coquimatlán,8,,,,
+06005,Cuauhtémoc,10,,,,
+06006,Ixtlahuacán,6,,,,
+06007,Manzanillo,57,,,,
+06008,Minatitlán,8,,,,
+06009,Tecomán,30,,,,
+06010,Villa de Álvarez,19,,,,
+,,,,,,
